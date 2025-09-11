@@ -1,0 +1,8 @@
+1. https://www.kaggle.com/datasets/vaibhavrmankar/natural-disasters-in-india-1990-2021
+2. A DATASET ON FLOODS IN INDIA-> https://www.kaggle.com/datasets/aditya2803/india-floods-inventory
+3. RAINFALL IN INDIA -> https://www.kaggle.com/datasets/aravindpcoder/rainfall-in-india-1901-2015
+4. floods in india -> https://www.kaggle.com/datasets/sujaykapadnis/india-floods-october-2023
+5. disaster response messages -> https://www.kaggle.com/datasets/landlord/multilingual-disaster-response-messages
+6.  forecasting disaster management -> https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024
+7. tweets -> https://www.kaggle.com/datasets/swaptr/turkey-earthquake-tweets , https://www.kaggle.com/datasets/aradhanapratap/natural-disaster-tweets
+8. https://crisisnlp.qcri.org/
