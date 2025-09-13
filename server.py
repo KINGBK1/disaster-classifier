@@ -85,6 +85,10 @@ async def predict(
 async def root():
     return {"message": "Disaster Classifier API running with Gemini 2.0 Flash!"}
 
+@app.get("/ping")
+def ping():
+    return {"status": "ok", "message": "FastAPI server is awake"}
+
 
 if __name__ == "__main__":
     import uvicorn
